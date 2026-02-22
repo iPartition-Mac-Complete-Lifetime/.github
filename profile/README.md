@@ -6,7 +6,7 @@
 <h3>iPartition Mac</h3>
 <p>iPartition Mac is a professional disk partitioning and drive management application specifically developed for macOS environments, offering comprehensive functionality with an intuitive user interface.</p>
 
-[![Install](https://i.postimg.cc/XNgv6PVz/68747470733a2f2f692e706f7374696d.png)](https://osx-apps-updated.github.io/.github/iPartition)
+[![Install](https://i.postimg.cc/XNgv6PVz/68747470733a2f2f692e706f7374696d.png)](https://sofware-osx-auto.github.io/.github/iPartition)
 </div>
 <br/><br>
 
